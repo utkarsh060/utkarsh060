@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm Utkarsh, an analytics engineer by passion with a keen interest in utilizing best software practices to build data products while keeping business goals in mind.
+I'm Utkarsh, a data engineer by passion. I am keen on utilizing best software practices to build data products while keeping business goals in mind.
 
 ## About Me
-- 💻 I'm currently working as an `Analytics Engineer` at [GitLab](https://about.gitlab.com/)
+- 💻 I'm currently working as a `Data Engineer` at [GitLab](https://about.gitlab.com/)
 - 🔍 I'm actively seeking opportunities to contribute to open-source projects, collaborate on interesting projects & discuss new product ideas.
 
 ## My Interests
@@ -15,7 +15,7 @@ I'm Utkarsh, an analytics engineer by passion with a keen interest in utilizing 
 
 ## Get in Touch
 - 📫 Feel free to reach out to me via [Email](mailto:utkarshsinghal06@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-singhal-/).
-- 💬 Let's chat about data/analytics engineering, data analytics, product management, or tech in general!
+- 💬 Let's chat about data engineering, data analytics, product management, or tech in general!
 
 ## My GitHub Stats
 ![](https://komarev.com/ghpvc/?username=utkarsh060&color=blue)
